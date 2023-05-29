@@ -1,0 +1,16 @@
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\bin\Debug\xiketang.com.SocketProject.exe.config
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\bin\Debug\xiketang.com.SocketProject.exe
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\bin\Debug\xiketang.com.SocketProject.pdb
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.FrmTCPServer.resources
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.Properties.Resources.resources
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.csproj.GenerateResource.cache
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.exe
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.pdb
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.FrmTCPClient.resources
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.FrmJSON.resources
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.csproj.CopyComplete
+C:\Users\xiketang\Desktop\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.csprojAssemblyReference.cache
+D:\Movies\50627710【新阁教育】.Net工控上位机VIP课程同步源码，版权所有，严禁传播\【新阁教育】.Net工控上位机VIP课程同步源码，版权所有，严禁传播\第06章：【新阁教育上位机】网络通信-CSharp实现网络调试助手开发\授课资料\参考源码\同步课程源码\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.exe
+D:\Movies\50627710【新阁教育】.Net工控上位机VIP课程同步源码，版权所有，严禁传播\【新阁教育】.Net工控上位机VIP课程同步源码，版权所有，严禁传播\第06章：【新阁教育上位机】网络通信-CSharp实现网络调试助手开发\授课资料\参考源码\同步课程源码\xiketang.com.SocketProject\xiketang.com.SocketProject\obj\Debug\xiketang.com.SocketProject.pdb
