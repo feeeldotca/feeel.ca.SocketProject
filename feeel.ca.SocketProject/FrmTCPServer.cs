@@ -26,7 +26,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace xiketang.com.SocketProject
+namespace feeel.ca.SocketProject
 {
     public enum MessageType
     {
@@ -649,5 +649,9 @@ namespace xiketang.com.SocketProject
         }
         #endregion
 
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

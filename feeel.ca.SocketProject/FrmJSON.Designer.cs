@@ -54,14 +54,14 @@
             // StudentID
             // 
             this.StudentID.DataPropertyName = "StudentID";
-            this.StudentID.HeaderText = "学员ID";
+            this.StudentID.HeaderText = "StudentID";
             this.StudentID.Name = "StudentID";
             this.StudentID.ReadOnly = true;
             // 
             // StudentName
             // 
             this.StudentName.DataPropertyName = "StudentName";
-            this.StudentName.HeaderText = "学员姓名";
+            this.StudentName.HeaderText = "StudentName";
             this.StudentName.Name = "StudentName";
             this.StudentName.ReadOnly = true;
             // 
@@ -69,21 +69,21 @@
             // 
             this.ClassName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.ClassName.DataPropertyName = "ClassName";
-            this.ClassName.HeaderText = "班级名称";
+            this.ClassName.HeaderText = "ClassName";
             this.ClassName.Name = "ClassName";
             this.ClassName.ReadOnly = true;
             // 
-            // Form1
+            // FrmJSON
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(469, 282);
             this.Controls.Add(this.dataGridView1);
-            this.Font = new System.Drawing.Font("黑体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.Font = new System.Drawing.Font("SimHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "Form1";
+            this.Name = "FrmJSON";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "JSON对象显示";
+            this.Text = "JSON Object View";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 

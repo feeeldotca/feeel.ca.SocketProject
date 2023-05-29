@@ -62,13 +62,13 @@
             // 
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label1.Font = new System.Drawing.Font("黑体", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label1.Font = new System.Drawing.Font("SimHei", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(712, 84);
             this.label1.TabIndex = 0;
-            this.label1.Text = "TCP传输客户端";
+            this.label1.Text = "TCP Transmission Client";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // splitContainer1
@@ -110,7 +110,7 @@
             this.btn_SelectFile.Name = "btn_SelectFile";
             this.btn_SelectFile.Size = new System.Drawing.Size(85, 23);
             this.btn_SelectFile.TabIndex = 3;
-            this.btn_SelectFile.Text = "选择文件";
+            this.btn_SelectFile.Text = "Open File";
             this.btn_SelectFile.UseVisualStyleBackColor = true;
             this.btn_SelectFile.Click += new System.EventHandler(this.btn_SelectFile_Click);
             // 
@@ -170,7 +170,7 @@
             this.btn_SendJSON.Name = "btn_SendJSON";
             this.btn_SendJSON.Size = new System.Drawing.Size(85, 30);
             this.btn_SendJSON.TabIndex = 4;
-            this.btn_SendJSON.Text = "发送JSON";
+            this.btn_SendJSON.Text = "Send JSON";
             this.btn_SendJSON.UseVisualStyleBackColor = true;
             this.btn_SendJSON.Click += new System.EventHandler(this.btn_SendJSON_Click);
             // 
@@ -180,7 +180,7 @@
             this.btn_SendFile.Name = "btn_SendFile";
             this.btn_SendFile.Size = new System.Drawing.Size(85, 30);
             this.btn_SendFile.TabIndex = 5;
-            this.btn_SendFile.Text = "发送文件";
+            this.btn_SendFile.Text = "Send File";
             this.btn_SendFile.UseVisualStyleBackColor = true;
             this.btn_SendFile.Click += new System.EventHandler(this.btn_SendFile_Click);
             // 
@@ -190,7 +190,7 @@
             this.btn_SendHex.Name = "btn_SendHex";
             this.btn_SendHex.Size = new System.Drawing.Size(85, 30);
             this.btn_SendHex.TabIndex = 6;
-            this.btn_SendHex.Text = "发送Hex";
+            this.btn_SendHex.Text = "Send Hex";
             this.btn_SendHex.UseVisualStyleBackColor = true;
             this.btn_SendHex.Click += new System.EventHandler(this.btn_SendHex_Click);
             // 
@@ -200,7 +200,7 @@
             this.btn_SendUTF8.Name = "btn_SendUTF8";
             this.btn_SendUTF8.Size = new System.Drawing.Size(85, 30);
             this.btn_SendUTF8.TabIndex = 7;
-            this.btn_SendUTF8.Text = "发送UTF8";
+            this.btn_SendUTF8.Text = "Send UTF8";
             this.btn_SendUTF8.UseVisualStyleBackColor = true;
             this.btn_SendUTF8.Click += new System.EventHandler(this.btn_SendUTF8_Click);
             // 
@@ -210,38 +210,38 @@
             this.btn_SendASCII.Name = "btn_SendASCII";
             this.btn_SendASCII.Size = new System.Drawing.Size(85, 30);
             this.btn_SendASCII.TabIndex = 8;
-            this.btn_SendASCII.Text = "发送ASCII";
+            this.btn_SendASCII.Text = "Send ASCII";
             this.btn_SendASCII.UseVisualStyleBackColor = true;
             this.btn_SendASCII.Click += new System.EventHandler(this.btn_SendASCII_Click);
             // 
             // btn_DisConn
             // 
-            this.btn_DisConn.Location = new System.Drawing.Point(118, 210);
+            this.btn_DisConn.Location = new System.Drawing.Point(19, 210);
             this.btn_DisConn.Name = "btn_DisConn";
-            this.btn_DisConn.Size = new System.Drawing.Size(85, 30);
+            this.btn_DisConn.Size = new System.Drawing.Size(182, 30);
             this.btn_DisConn.TabIndex = 3;
-            this.btn_DisConn.Text = "断开服务器";
+            this.btn_DisConn.Text = "Disconnect Server";
             this.btn_DisConn.UseVisualStyleBackColor = true;
             this.btn_DisConn.Click += new System.EventHandler(this.btn_DisConn_Click);
             // 
             // btn_Connect
             // 
-            this.btn_Connect.Location = new System.Drawing.Point(19, 210);
+            this.btn_Connect.Location = new System.Drawing.Point(19, 174);
             this.btn_Connect.Name = "btn_Connect";
-            this.btn_Connect.Size = new System.Drawing.Size(85, 30);
+            this.btn_Connect.Size = new System.Drawing.Size(182, 30);
             this.btn_Connect.TabIndex = 3;
-            this.btn_Connect.Text = "连接服务器";
+            this.btn_Connect.Text = "Connect Server";
             this.btn_Connect.UseVisualStyleBackColor = true;
             this.btn_Connect.Click += new System.EventHandler(this.btn_Connect_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(16, 96);
+            this.label3.Location = new System.Drawing.Point(10, 95);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(91, 14);
             this.label3.TabIndex = 3;
-            this.label3.Text = "服务器端口：";
+            this.label3.Text = "Client Port:";
             // 
             // txt_User
             // 
@@ -262,20 +262,20 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(16, 138);
+            this.label4.Location = new System.Drawing.Point(24, 137);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(77, 14);
             this.label4.TabIndex = 3;
-            this.label4.Text = "用户名称：";
+            this.label4.Text = "User Name:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(16, 55);
+            this.label2.Location = new System.Drawing.Point(24, 54);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(77, 14);
             this.label2.TabIndex = 3;
-            this.label2.Text = "服务器IP：";
+            this.label2.Text = "Server IP:";
             // 
             // txt_IP
             // 
@@ -292,13 +292,13 @@
             this.ClientSize = new System.Drawing.Size(712, 509);
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.label1);
-            this.Font = new System.Drawing.Font("黑体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.Font = new System.Drawing.Font("SimHei", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "FrmTCPClient";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "基于Socket实现TCP客户端【喜科堂互联教育】";
+            this.Text = "TCP Client Based on Socket";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmTCPClient_FormClosing);
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel1.PerformLayout();
